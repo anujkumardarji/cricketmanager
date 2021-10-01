@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "cricketmanager",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

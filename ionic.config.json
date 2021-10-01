@@ -1,0 +1,7 @@
+{
+  "name": "cricketmanager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
